@@ -3,4 +3,4 @@
 
  Applicatinon in developing
 
- If ypu want help I will be really happy!!
+ If you want help I will be really happy!!
