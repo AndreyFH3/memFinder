@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="BeatyTestApp.LinkPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BeatyTestApp"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="750">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Margin="0,0,0.4,-0.6" d:LayoutOverrides="LeftMargin, RightMargin">
+            <TextBlock Text="Автор работы:" Foreground="White" FontSize="40" HorizontalAlignment="Center"/>
+            <TextBlock Text="Андрей Лихницкий" Foreground="White" FontSize="40" HorizontalAlignment="Center"/>
+            <Image Source="pic/Likh.jpg" Grid.Row="1" Margin=" 20,0,30,0"/>
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <materialDesign:PackIcon Kind="Instagram" Grid.Row="2" Margin="20,5,0,0" Width="30" Height="30" Foreground="White"/>
+            <materialDesign:PackIcon Kind="Vkontakte" Grid.Row="2"  Margin="20,40,0,0" Width="30" Height="30" Foreground="White"/>
+            <TextBlock Text="@v3r73rn3r" FontSize="20" Grid.Row="2" Foreground="White" Margin="55,100,0,10" HorizontalAlignment="Left"/>
+            <TextBlock Text="AndreyFH3" FontSize="20" Grid.Row="2" Foreground="White" Margin="55,70,0,0" Height="45" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        </Grid>
+    </Grid>
+</UserControl>
