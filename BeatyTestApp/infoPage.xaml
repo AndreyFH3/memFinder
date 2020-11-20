@@ -7,6 +7,10 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="750">
     <Grid>
-        <Button Height="400" Content="DONT WORK" FontSize="120"/>
+        <StackPanel>
+        <TextBlock Text="Ведется разработака" Foreground="White" FontSize="50" HorizontalAlignment="Center"/>
+            <TextBlock Text="Начало разработки 20.11.2020" Foreground="White" FontSize="50" HorizontalAlignment="Center"/>
+            <TextBlock Text="Дизайн кнопки, что красиво было" TextWrapping="WrapWithOverflow" Foreground="White" FontSize="50" HorizontalAlignment="Center"/>
+        </StackPanel>
     </Grid>
 </UserControl>

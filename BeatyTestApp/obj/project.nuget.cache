@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "57/7EDaF3Zh8rw0qwMj9Vznjgt7uO4WsrIzClbtHVo5OXCu2smIT4cMwA9a7IkrphaTVwm5r1pcKvxkjDgYfAw==",
+  "dgSpecHash": "hKtfedWP4lzRtb+z9qoLFdQ8ZeZXgt6nEz1TwHO0sj2ZCJQgIGAKOx9hIdoBIXPqw6EcDn1i75AwOcFjv8ZP6w==",
   "success": true,
-  "projectFilePath": "C:\\Yandex\\YandexDisk\\Личное\\c#\\BeatyTestApp\\BeatyTestApp\\BeatyTestApp.csproj",
+  "projectFilePath": "C:\\Yandex\\YandexDisk\\_prog\\BeatyTestApp\\memFinder\\BeatyTestApp\\BeatyTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrey\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
     "C:\\Users\\Andrey\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",

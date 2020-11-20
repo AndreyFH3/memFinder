@@ -1460,11 +1460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yandex\\YandexDisk\\Личное\\c#\\BeatyTestApp\\BeatyTestApp\\BeatyTestApp.csproj",
+      "projectUniqueName": "C:\\Yandex\\YandexDisk\\_prog\\BeatyTestApp\\memFinder\\BeatyTestApp\\BeatyTestApp.csproj",
       "projectName": "BeatyTestApp",
-      "projectPath": "C:\\Yandex\\YandexDisk\\Личное\\c#\\BeatyTestApp\\BeatyTestApp\\BeatyTestApp.csproj",
+      "projectPath": "C:\\Yandex\\YandexDisk\\_prog\\BeatyTestApp\\memFinder\\BeatyTestApp\\BeatyTestApp.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Yandex\\YandexDisk\\Личное\\c#\\BeatyTestApp\\BeatyTestApp\\obj\\",
+      "outputPath": "C:\\Yandex\\YandexDisk\\_prog\\BeatyTestApp\\memFinder\\BeatyTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

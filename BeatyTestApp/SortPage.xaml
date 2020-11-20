@@ -13,13 +13,13 @@
                 <ColumnDefinition Width="150"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <TextBox Height="30" TextAlignment="Center" FontFamily="Days" FontSize="15" VerticalAlignment="Top" Margin="10,10,10.4,0" Text="KEKW" Background="#efd091" />
+            <TextBox Height="30" TextAlignment="Center" FontFamily="Days" FontSize="15" VerticalAlignment="Top" Margin="10,10,10.4,0" Text="KEKW" Background="#85aac5" />
             <Button x:Name="Find" Margin="10,45,10.4,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}">
                 <materialDesign:PackIcon Kind="Magnify" Height="29" Width="19" />
             </Button>
-            <ListBox BorderBrush="Blue" Margin="10,80,10,10" Background="#efd091" FontFamily="Days" >
+            <ListBox Background="#85aac5" Margin="10,80,10,10" FontFamily="Days" >
                 <ListBoxItem Content="First Item"/>
-                <ListBoxItem Content="Second Item"/>
+                <ListBoxItem Content="Second Item" BorderBrush="{x:Null}"/>
             </ListBox>
             <Grid Grid.Column="1">
                 <Grid.RowDefinitions>
